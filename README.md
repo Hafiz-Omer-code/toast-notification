@@ -6,12 +6,6 @@ Customizable Notifications: Three types of notifications—Success, Error, and I
 Responsive Design: Ensures compatibility across various devices, with smooth animations and adaptive layouts.
 Glassmorphism Styling: Buttons and notifications have frosted glass effects, providing a clean, modern aesthetic.
 Easy Integration: Simple HTML, CSS, and JavaScript structure allows for easy customization and integration into other projects.
-Demo
-You can check a live demo here (add link if deployed).
-
-Screenshots
-￼
-(Add screenshots of your project here)
 
 Technologies Used
 HTML: For structuring the interface.
@@ -22,7 +16,7 @@ Clone the repository:
 
 bash
 ￼Copy code
-git clone https://github.com/yourusername/toast-notifications.git
+git clone https://github.com/Hafiz-Omer-code/toast-notification.git
 Navigate to the project folder:
 
 bash
